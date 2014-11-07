@@ -1,4 +1,3 @@
-Documentation project
 JS Frameworks
 ============
 
